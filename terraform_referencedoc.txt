@@ -1,0 +1,49 @@
+
+
+
+Resorces: AWS using Terraform 
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs
+
+https://registry.terraform.io/modules/terraform-aws-modules/vpc/aws/latest
+
+===========
+
+Resource: aws_network_interface
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/network_interface
+
+===========
+
+Resource: aws_route_table_association
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table_association
+
+
+===========
+
+Resource: aws_security_group
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group
+
+===========
+
+Resource: aws_internet_gateway
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/internet_gateway
+
+===========
+
+Resource: aws_route_table
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/route_table
+
+===========
+
+Resource: aws_subnet
+
+https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/subnet
+
+===========
+
+
